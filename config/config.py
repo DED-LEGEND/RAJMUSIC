@@ -54,7 +54,7 @@ EXTRA_PLUGINS = getenv(
 
 EXTRA_PLUGINS_REPO = getenv(
     "EXTRA_PLUGINS_REPO",
-    "https://github.com/vishalpandeynkp1/NOBITA-EXTRA-PLUGIN",
+    "https://github.com/DED-LEGEND/LUCKY-PLUGIN",
 )
 # Fill here the external plugins repo where plugins that you want to load
 
@@ -71,12 +71,12 @@ SONG_DOWNLOAD_DURATION = int(
 
 
 # You'll need a Log Group Username for this.
-LOG_GROUP_ID = (getenv("LOG_GROUP_ID", ""))
+LOG_GROUP_ID = (getenv("LOG_GROUP_ID", "-1001764614031"))
 
 
 # Your User ID.
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", "11679112664").split())
+    map(int, getenv("OWNER_ID", "6458155947").split())
 )  # Input type must be interger
 
 
@@ -97,7 +97,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 # For customized or modified Repository
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/vishalpandeynkp1/VIPNOBITAMUSIC_REPO",
+    "https://github.com/DED-LEGEND/LUCKY-MUSIC",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
@@ -118,14 +118,14 @@ AUTO_GCAST_MSG = getenv("AUTO_GCAST_MSG", "")
 
 
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/NOBITA_ALL_BOT"
+    "SUPPORT_CHANNEL", "https://t.me/DX_INFO"
 )  # Example:- https://t.me/NOBITA_ALL_BOT
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/NOBITA_SUPPORT"
+    "SUPPORT_GROUP", "https://t.me/YARANA_TG"
 )  # Example:- https://t.me/NOBITA_SUPPORT
 
 SUPPORT_CHAT = getenv(
-    "SUPPORT_GROUP", "https://t.me/NOBITA_SUPPORT"
+    "SUPPORT_GROUP", "https://t.me/DxFRIENDS"
 )  # Example:- https://t.me/NOBITA_SUPPORT
 
 # Set it in True if you want to leave your assistant after a certain amount of time. [Set time via AUTO_LEAVE_ASSISTANT_TIME]
