@@ -76,7 +76,7 @@ LOG_GROUP_ID = (getenv("LOG_GROUP_ID", "-1001764614031"))
 
 # Your User ID.
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", "6458155947").split())
+    map(int, getenv("OWNER_ID", "7605675869").split())
 )  # Input type must be interger
 
 
@@ -118,10 +118,10 @@ AUTO_GCAST_MSG = getenv("AUTO_GCAST_MSG", "")
 
 
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/DX_INFO"
+    "SUPPORT_CHANNEL", "https://t.me/sammr_143"
 )  # Example:- https://t.me/NOBITA_ALL_BOT
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/YARANA_TG"
+    "SUPPORT_GROUP", "https://t.me/love_for_isqe_143"
 )  # Example:- https://t.me/NOBITA_SUPPORT
 
 SUPPORT_CHAT = getenv(
