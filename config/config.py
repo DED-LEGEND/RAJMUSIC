@@ -221,47 +221,47 @@ autoclean = []
 
 START_IMG_URL = getenv(
     "START_IMG_URL",
-    "https://envs.sh/LW8.jpg",
+    "https://envs.sh/52-.jpg",
 )
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://envs.sh/LW8.jpg",
+    "https://envs.sh/52-.jpg",
 )
 
 PLAYLIST_IMG_URL = getenv(
     "PLAYLIST_IMG_URL",
-    "https://envs.sh/LW8.jpg",
+    "https://envs.sh/52-.jpg",
 )
 
 GLOBAL_IMG_URL = getenv(
     "GLOBAL_IMG_URL",
-    "https://envs.sh/LW8.jpg",
+    "https://envs.sh/52-.jpg",
 )
 
 STATS_IMG_URL = getenv(
     "STATS_IMG_URL",
-    "https://envs.sh/LW8.jpg",
+    "https://envs.sh/52-.jpg",
 )
 
 TELEGRAM_AUDIO_URL = getenv(
     "TELEGRAM_AUDIO_URL",
-    "https://envs.sh/LW8.jpg",
+    "https://envs.sh/52-.jpg",
 )
 
 TELEGRAM_VIDEO_URL = getenv(
     "TELEGRAM_VIDEO_URL",
-    "https://envs.sh/LW8.jpg",
+    "https://envs.sh/52-.jpg",
 )
 
 STREAM_IMG_URL = getenv(
     "STREAM_IMG_URL",
-    "https://envs.sh/LW8.jpg",
+    "https://envs.sh/52-.jpg",
 )
 
 SOUNCLOUD_IMG_URL = getenv(
     "SOUNCLOUD_IMG_URL",
-    "https://envs.sh/ZK5.jpg",
+    "https://envs.sh/52-.jpg",
 )
 
 YOUTUBE_IMG_URL = getenv(
